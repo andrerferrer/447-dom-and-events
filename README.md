@@ -11,13 +11,10 @@ yarn install
 stt # Open this folder in Sublime Text
 ```
 
-Make sure you have `./node_modules/.bin` in your `$PATH`! This way you can run this:
-
+Run this to start your server:
 ```bash
-eslint lib
 webpack-dev-server
 ```
-
 You can then access http://localhost:8080 in your browser to see your app running.
 
 Good Luck Have Fun
