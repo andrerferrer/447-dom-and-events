@@ -4,7 +4,7 @@ First clone this repository to your laptop. You must have Node (> v4) and [yarn]
 
 ```bash
 cd ~/code/<your_github_nickname>
-git clone git@github.com:lewagon/webpack-boilerplate.git my-js-project
+git git@github.com:andrerferrer/447-dom-and-events.git my-js-project
 cd my-js-project
 rm -rf .git
 yarn install
@@ -18,8 +18,6 @@ eslint lib
 webpack-dev-server
 ```
 
-Once a file has been updated in Sublime, you can run it with:
+You can then access http://localhost:8080 in your browser to see your app running.
 
-```bash
-node lib/01_types.js
-```
+Good Luck Have Fun
